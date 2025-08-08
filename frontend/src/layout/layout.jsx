@@ -1,6 +1,6 @@
 import React from "react";
 
-constant Layout = () => {
+const Layout = () => {
   return <dev>Layout</dev>
 }
 
