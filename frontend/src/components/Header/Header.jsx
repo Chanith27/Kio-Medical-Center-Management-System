@@ -1,6 +1,6 @@
 import React from "react";
 
-constant Header = () => {
+const Header = () => {
   return <dev>Header</dev>
 }
 
